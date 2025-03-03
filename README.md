@@ -1,7 +1,6 @@
 # YOLOHealthInsights
 **Advanced AI-Powered Healthcare Analytics**
 
-[![YOLOHealthInsights Banner](https://via.placeholder.com/1200x400.png?text=YOLOHealthInsights)](https://github.com/yourusername/YOLOHealthInsights)
 
 ## Overview
 YOLOHealthInsights is an advanced healthcare analytics platform that leverages YOLO for real-time medical image detection and predictive analytics. This repository demonstrates how to process medical images, perform object detection, and visualize results through an interactive dashboard.
